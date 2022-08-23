@@ -1,0 +1,3 @@
+[submodule "mart-dhis2-sync"]
+	path = mart-dhis2-sync
+	url = git@repo.nuchange.com:psi/mart-dhis2-sync.git
